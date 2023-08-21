@@ -5,7 +5,7 @@
 package xorm
 
 import (
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // func init() {

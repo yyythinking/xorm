@@ -3,7 +3,7 @@ package xorm
 import (
 	"reflect"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 var (

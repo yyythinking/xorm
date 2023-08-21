@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 var (

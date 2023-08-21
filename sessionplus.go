@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/Chronokeeper/anyxml"
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 type ResultBean struct {

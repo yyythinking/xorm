@@ -8,7 +8,7 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 type oci8Driver struct {

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 func reflect2objectWithDateFormat(rawValue *reflect.Value, dateFormat string) (value interface{}, err error) {

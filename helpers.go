@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // str2PK convert string value to primary key value according to tp
