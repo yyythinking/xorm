@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/yyythinking/builder"
+	"github.com/xormplus/builder"
 	"github.com/yyythinking/xorm/schemas"
 )
 

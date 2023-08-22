@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 type mysqlDriver struct {

@@ -8,7 +8,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 type odbcDriver struct {

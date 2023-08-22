@@ -14,7 +14,7 @@ import (
 	//"runtime"
 	//"sync"
 	//"time"
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // EngineGroup defines an engine group

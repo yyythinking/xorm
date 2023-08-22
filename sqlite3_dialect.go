@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // func init() {

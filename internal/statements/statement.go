@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yyythinking/builder"
+	"github.com/xormplus/builder"
 	"github.com/yyythinking/xorm/contexts"
 	"github.com/yyythinking/xorm/convert"
 	"github.com/yyythinking/xorm/dialects"

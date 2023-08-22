@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // from http://www.postgresql.org/docs/current/static/sql-keywords-appendix.html

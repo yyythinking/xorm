@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yyythinking/builder"
+	"github.com/xormplus/builder"
 )
 
 func TestBuilder(t *testing.T) {

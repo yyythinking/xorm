@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/go-xorm/builder"
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 // Session keep a pointer to sql.DB and provides all execution of all

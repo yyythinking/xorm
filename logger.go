@@ -9,7 +9,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/yyythinking/core"
+	"github.com/xormplus/core"
 )
 
 const (
