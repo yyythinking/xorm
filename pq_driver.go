@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 type pqDriver struct {

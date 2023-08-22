@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/go-xorm/builder"
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 type incrParam struct {

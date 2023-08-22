@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 type mymysqlDriver struct {

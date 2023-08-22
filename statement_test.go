@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 var colStrTests = []struct {

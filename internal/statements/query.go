@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/xormplus/builder"
+	"github.com/yyythinking/builder"
 	"github.com/yyythinking/xorm/core"
 	"github.com/yyythinking/xorm/dialects"
 	"github.com/yyythinking/xorm/internal/utils"

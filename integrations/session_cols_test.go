@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/xormplus/builder"
+	"github.com/yyythinking/builder"
 	"github.com/yyythinking/xorm/schemas"
 )
 

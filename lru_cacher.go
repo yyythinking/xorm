@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 type LRUCacher struct {

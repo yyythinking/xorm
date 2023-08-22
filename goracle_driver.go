@@ -8,7 +8,7 @@ import (
 	"errors"
 	"regexp"
 
-	"github.com/xormplus/core"
+	"github.com/yyythinking/core"
 )
 
 // func init() {
